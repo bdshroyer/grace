@@ -1,7 +1,7 @@
 # Grace - a simple Go webapp for testing cloudfoundry
 
 ```
-go get -v github.com/cloudfoundry/grace
+go get -v github.com/bdshroyer/grace
 goto grace
 ```
 

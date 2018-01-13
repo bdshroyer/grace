@@ -12,9 +12,9 @@ import (
 	_ "net/http/pprof"
 
 	"code.cloudfoundry.org/lager"
-	"github.com/cloudfoundry/grace/handlers"
-	"github.com/cloudfoundry/grace/helpers"
-	"github.com/cloudfoundry/grace/routes"
+	"github.com/bdshroyer/grace/handlers"
+	"github.com/bdshroyer/grace/helpers"
+	"github.com/bdshroyer/grace/routes"
 	"github.com/tedsuo/ifrit"
 	"github.com/tedsuo/ifrit/grouper"
 	"github.com/tedsuo/ifrit/http_server"

@@ -33,7 +33,7 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/cloudfoundry/grace"
+  name = "github.com/bdshroyer/grace"
 
 [[constraint]]
   name = "github.com/onsi/say"

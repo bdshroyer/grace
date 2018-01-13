@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/cloudfoundry/grace/helpers"
+	"github.com/bdshroyer/grace/helpers"
 )
 
 type Stick struct {
